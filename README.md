@@ -1,4 +1,4 @@
-![](https://github.com/qandeelabbassi/threejs-3dpillow-creator/pillow.gif)
+![](https://github.com/qandeelabbassi/threejs-3dpillow-creator/blob/main/pillow.gif)
 
 ### Prerequisites  
 

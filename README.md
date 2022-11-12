@@ -1,3 +1,5 @@
+![](https://github.com/qandeelabbassi/threejs-3dpillow-creator/pillow.gif)
+
 ### Prerequisites  
 
 - [Nodejs](https://nodejs.org/en/download/) for installing dependencies using npm

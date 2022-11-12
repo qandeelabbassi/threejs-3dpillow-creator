@@ -1,0 +1,35 @@
+{
+  "name": "threejs-model-loader",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/ccc01221/Three.js-pillow#readme",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "serve": "webpack serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccc01221/Three.js-pillow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ccc01221/Three.js-pillow/issues"
+  },
+  "dependencies": {
+    "createjs": "^1.0.1",
+    "createjs-module": "^0.8.3",
+    "imagesloaded": "^4.1.4",
+    "masonry-layout": "^4.2.2",
+    "three": "^0.132.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.64.2",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.5.0"
+  }
+}
